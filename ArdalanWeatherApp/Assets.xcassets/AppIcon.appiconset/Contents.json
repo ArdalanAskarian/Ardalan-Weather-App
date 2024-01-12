@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "weather_app_a_cute_3D_icon_of_.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
